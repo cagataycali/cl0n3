@@ -1,0 +1,36 @@
+{
+  "name": "cl0n3",
+  "version": "1.0.0",
+  "description": "Git clone easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/cl0n3.git"
+  },
+  "keywords": [
+    "Git",
+    "git",
+    "cli",
+    "git",
+    "cli",
+    "tool",
+    "git",
+    "clone"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/cl0n3/issues"
+  },
+  "homepage": "https://github.com/cagataycali/cl0n3#readme",
+  "dependencies": {
+    "3x3c": "^1.0.2",
+    "async": "^2.0.1",
+    "colors": "^1.1.2",
+    "inquirer": "^1.1.3",
+    "is-git-url": "^0.2.3"
+  }
+}
